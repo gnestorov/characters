@@ -1,4 +1,4 @@
-package com.advance_academy.characters_demo;
+package com.advance.academy.characters.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
